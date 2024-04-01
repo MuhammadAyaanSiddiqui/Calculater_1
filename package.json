@@ -1,0 +1,21 @@
+{
+  "name": "a2n-c",
+  "version": "1.0.4",
+  "description": "A siple Calculator , Typescript , Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "a2n-c": "nice.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ayaan Siddiqui",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
